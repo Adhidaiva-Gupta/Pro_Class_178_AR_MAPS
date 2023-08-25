@@ -1,1 +1,1 @@
-# Pro_Class_178_AR_MAPS
+# PRO-C178-Boilerplate
